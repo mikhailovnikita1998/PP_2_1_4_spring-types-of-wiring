@@ -1,6 +1,7 @@
 package koschei;
 
-import koschei.models.Ocean1;
+import koschei.config.AppConfig;
+import koschei.models.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
